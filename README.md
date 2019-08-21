@@ -1,6 +1,8 @@
 # The Hungarian algorithm
 A description of the Hungarian algorithm, along with the intuition behind it and an implementation in C.
 
+Still WIP!
+
 ---
 
 # Why this repository?
